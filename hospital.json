@@ -1,0 +1,22 @@
+[
+    {
+        "name" : "Bekasi Hospital",
+        "location" : "Bekasi"
+    },
+    {
+        "name" : "Jakarta International Hospital",
+        "location" : "Jakarta"
+    },
+    {
+        "name" : "Bandung Hospital",
+        "location" : "Bandung"
+    },
+    {
+        "name" : "Depok Hospital",
+        "location" : "Depok"
+    },
+    {
+        "name" : "Tangerang Hospital",
+        "location" : "Tangerang"
+    }
+]
