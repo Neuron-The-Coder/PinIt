@@ -1,0 +1,42 @@
+[
+    {
+        "name" : "Karl Danielsson",
+        "specialization" : "General Practitioner"
+    },
+    {
+        "name" : "Hans Anderson",
+        "specialization" : "Surgeon"
+    },
+    {
+        "name" : "Mikhael",
+        "specialization" : "General Practitioner"
+    },
+    {
+        "name" : "Anna",
+        "specialization" : "Dermatology"
+    },
+    {
+        "name" : "Korhonen",
+        "specialization" : "General Practitioner"
+    },
+    {
+        "name" : "Kaarina",
+        "specialization" : "Ear, Nose, and Throat"
+    },
+    {
+        "name" : "Alma",
+        "specialization" : "General Practitioner"
+    },
+    {
+        "name" : "Alfred",
+        "specialization" : "Psychology"
+    },
+    {
+        "name" : "Ingolfur",
+        "specialization" : "General Practitioner"
+    },
+    {
+        "name" : "Hallbera",
+        "specialization" : "General Surgery"
+    }
+]

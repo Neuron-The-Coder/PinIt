@@ -1,22 +1,22 @@
 [
     {
-        "name" : "Bekasi Hospital",
-        "location" : "Bekasi"
+        "name" : "Oslo National Hospital",
+        "location" : "Oslo, Norway"
     },
     {
-        "name" : "Jakarta International Hospital",
-        "location" : "Jakarta"
+        "name" : "Stockholm Community Hospital and Care",
+        "location" : "Stockholm, Sweden"
     },
     {
-        "name" : "Bandung Hospital",
-        "location" : "Bandung"
+        "name" : "Helsinki National Hospital and Clinic",
+        "location" : "Helsinki, Finland"
     },
     {
-        "name" : "Depok Hospital",
-        "location" : "Depok"
+        "name" : "Copenhagen Hospital and Nursery",
+        "location" : "Copenhagen, Denmark"
     },
     {
-        "name" : "Tangerang Hospital",
-        "location" : "Tangerang"
+        "name" : "National Hospital of Reykjavik",
+        "location" : "Reykjavik, Iceland"
     }
 ]

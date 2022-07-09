@@ -1,0 +1,42 @@
+[
+    {
+        "hospital_id" : 1,
+        "doctor_id" : 1 
+    },
+    {
+        "hospital_id" : 1,
+        "doctor_id" : 2 
+    },
+    {
+        "hospital_id" : 2,
+        "doctor_id" : 3 
+    },
+    {
+        "hospital_id" : 2,
+        "doctor_id" : 4 
+    },
+    {
+        "hospital_id" : 3,
+        "doctor_id" : 5 
+    },
+    {
+        "hospital_id" : 3,
+        "doctor_id" : 6 
+    },
+    {
+        "hospital_id" : 4,
+        "doctor_id" : 7 
+    },
+    {
+        "hospital_id" : 4,
+        "doctor_id" : 8 
+    },
+    {
+        "hospital_id" : 5,
+        "doctor_id" : 9 
+    },
+    {
+        "hospital_id" : 5,
+        "doctor_id" : 10 
+    }
+]
